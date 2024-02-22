@@ -1,6 +1,6 @@
 # GUMsley
 
-Data and code for EACL 2024 paper _GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres_
+Data and code for EACL 2024 paper [GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres](https://arxiv.org/pdf/2401.17974.pdf)
 
 ## Directories
 - All 213 gold (GUMv9) summaries and their corresponding machine-generated summaries are in the `data` folder
@@ -10,7 +10,7 @@ Data and code for EACL 2024 paper _GUMsley: Evaluating Entity Salience in Summar
 
 ## Files
 - `Eval.ipynb`: summary level evaluation using **ROUGE scores** (Lin, 2004) and **BERTScore** (Zhang et al., 2020) (on the entire dataset)
-- `SummaC.ipynb`: quantitative analysis on entity hallucination using **SummaC<sub>Conv</sub> scores** (Laban et al., 2022) (on test set)
+- `SummaC.ipynb`: evaluation on entity hallucination using **SummaC<sub>Conv</sub> scores** (Laban et al., 2022) (on test set)
 
 
 ## Entity salience data
