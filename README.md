@@ -1,6 +1,6 @@
 # GUMsley
 
-Data and code for EACL 2024 paper <a href="https://aclanthology.org/2024.eacl-long.158/" target="_blank">GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres</a>
+Data and code for EACL 2024 paper [GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres](https://aclanthology.org/2024.eacl-long.158/&target=_blank)
 
 ## Directories
 - All 213 gold (GUMv9) summaries and their corresponding machine-generated summaries are in the `data` folder
