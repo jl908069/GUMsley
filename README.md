@@ -1,6 +1,6 @@
 # GUMsley
 
-Data and code for EACL 2024 paper [GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres](https://aclanthology.org/2024.eacl-long.158/&target=_blank)
+Data and code for EACL 2024 paper [GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres](https://aclanthology.org/2024.eacl-long.158/)
 
 ## Directories
 - All 213 gold (GUMv9) summaries and their corresponding machine-generated summaries are in the `data` folder
@@ -14,7 +14,7 @@ Data and code for EACL 2024 paper [GUMsley: Evaluating Entity Salience in Summar
 
 
 ## Entity salience data
-Go to the <a href="https://github.com/amir-zeldes/gum/tree/master" target="_blank">GUM repo</a> for entity salience data
+Go to the [GUM repo](https://github.com/amir-zeldes/gum/) for entity salience data
 
 coref/ - Entity and coreference annotation in two formats:
   - conll/ - CoNLL shared task tabular format (with Wikification but no bridging or split antecedent annotations)
